@@ -1,5 +1,7 @@
 {
   "profiles": [
-    {"i_ua_profile": 177930, "ua_profile_id": 127663, "fabricante": "yealink", "name": "PRUEBAS-GMT-YEALINK-T43U"}
+    {"i_ua_profile": 177936, "ua_profile_id": 127663, "fabricante": "yealink", "name": "PRUEBAS-GMT-YEALINK-T43U"},
+    {"i_ua_profile": 177937, "ua_profile_id": 127671, "fabricante": "linksys", "name": "PRUEBAS-GMT-LINKSYS-SPA"},
+    {"i_ua_profile": 177938, "ua_profile_id": 126806, "fabricante": "grandstream", "name": "HN-BANRURAL-GXP1610_test"}
   ]
 }
